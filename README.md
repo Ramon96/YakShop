@@ -2,7 +2,7 @@
 Creating a Yak Shop for the sheperd living on the tundra.
 
 
-## Github link is under construction!
+## Github readme is under construction!
 
 [Backend](https://github.com/Ramon96/YakShop/tree/main/Yakshop2/Yakshop2)
 
